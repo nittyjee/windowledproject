@@ -25,7 +25,7 @@ Part Number: BXRC-27G10K0-D-73
 Link:  
 https://www.digikey.com/product-detail/en/bridgelux/BXRC-27G10K0-D-73/976-1654-ND/6181445
 
-Also used in the past:
+**Also used in the past:**
 
 BXRC-27E10K0-C-73-SE  
 https://www.digikey.com/product-detail/en/bridgelux/BXRC-27E10K0-C-73-SE/976-1662-ND/7175440
@@ -46,7 +46,7 @@ Link:
 https://www.digikey.com/product-detail/en/aavid-thermal-division-of-boyd-corporation/NX300159/1061-1154-ND/4215391
 
 
-#### Note:
+#### Note:  
 All of the Vero 29 LEDs have the same dimensions and mount the same way.  
 The heatsink is made for Vero 29 LEDs.
 
