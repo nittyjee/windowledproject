@@ -4,4 +4,4 @@ The top mount disk is screwed into the bottom of the heatsink as a part of the L
 
 These were cut from ABS plastic, and can be ordered from a company that cuts plastic with a CNC machine.
 
-They are in svg format, and you may have to another format.
+They are in svg format, and you may have to redraw it or convert it to another format.
